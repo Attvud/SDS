@@ -1,1 +1,1 @@
-# SITIS
+# SITIS Design System
