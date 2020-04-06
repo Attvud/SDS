@@ -1,1 +1,1 @@
-# SDS
+# SITIS Design System (SDS)
