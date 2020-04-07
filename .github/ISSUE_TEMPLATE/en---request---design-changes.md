@@ -2,7 +2,7 @@
 name: EN - Request - Design changes
 about: Request to change the design
 title: Request to change the design
-labels: Quickly as possible
+labels: ''
 assignees: Attvud
 
 ---
@@ -13,15 +13,11 @@ assignees: Attvud
 
 > Enter the name of your project here
 
-<hr>
-
 ### Task description
 
 Please describe the task in detail. Break the text into paragraphs so that you can read it quickly and comfortably.
 
 > Enter the task description here
-
-<hr>
 
 ### Additionally
 
