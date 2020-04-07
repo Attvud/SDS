@@ -2,7 +2,7 @@
 name: RU - Запрос - Изменение дизайна
 about: Запрос на изменение дизайна
 title: Запрос на изменение дизайна
-labels: ''
+labels: Quickly as possible
 assignees: Attvud
 
 ---

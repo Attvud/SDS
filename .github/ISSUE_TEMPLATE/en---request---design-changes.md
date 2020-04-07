@@ -2,7 +2,7 @@
 name: EN - Request - Design changes
 about: Request to change the design
 title: Request to change the design
-labels: ''
+labels: Quickly as possible
 assignees: Attvud
 
 ---
