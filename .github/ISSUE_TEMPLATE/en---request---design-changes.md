@@ -11,7 +11,7 @@ assignees: Attvud
 
 ### Name of your project
 
-> Enter the name of your project here
+> Enter the link or name of your project here
 
 ### Task description
 
