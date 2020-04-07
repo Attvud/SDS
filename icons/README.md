@@ -8,7 +8,8 @@ Icons have been successfully tested on the following platforms: Web, Android, iO
 
 ### Main
 
-![Icons - Main.img](/02%20-%20Export/Project%20overview/GitHub/Icons%20-%20Main.png)
+![Icons - Main.img](https://github.com/Attvud/SITIS-Template/blob/master/01%20-%20design/export/project%20overview/github/icons%20-%20main.png)
+
 
 In this folder, icons are sorted by type - Outlined, Rounded, Sharp. I always use only one icon type per project. You can download icons separately in the following formats: PDF, SVG. All icon types are also available as fonts in the following formats: EOT, TTF, and WOFF.
 
