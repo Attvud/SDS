@@ -7,17 +7,8 @@ assignees: Attvud
 
 ---
 
-! Completed application
-
-### Name of your project
-
-> Enter the link or name of your project here
-
-### Task description
-
-Please describe the task in detail. Break the text into paragraphs so that you can read it quickly and comfortably.
-
-> Enter the task description here
+1. Name of your project
+2. Task description
 
 ### Additionally
 
